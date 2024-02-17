@@ -5,5 +5,4 @@
  # Created by Cootshk.
 ##
 
-scoreboard objectives add CreativeMode trigger
-scoreboard objectives add SurvivalMode trigger
+scoreboard objectives add NoNetheriteArmor_AllowNetheriteArmor dummy
