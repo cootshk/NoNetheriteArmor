@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 71,
+        "description": "Disable crafting netherite armor.",
+        "supported_formats": {
+            "min_inclusive": 57,
+            "max_inclusive": 80
+        }
+    }
+}
