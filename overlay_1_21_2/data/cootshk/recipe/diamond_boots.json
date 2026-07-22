@@ -1,9 +1,9 @@
 {
     "type": "minecraft:smithing_transform",
     "template": "minecraft:netherite_upgrade_smithing_template",
-    "base": "minecraft:diamond_axe",
+    "base": "minecraft:diamond_boots",
     "addition": "minecraft:netherite_ingot",
     "result": {
-        "id": "minecraft:diamond_axe"
+        "id": "minecraft:diamond_boots"
     }
 }
